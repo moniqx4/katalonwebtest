@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tester Name:
+
+Description of test
+
+
+Comments:</description>
+   <name>WORKFLOW_TEMPLATE</name>
+   <tag>template, testcase</tag>
+   <comment></comment>
+   <testCaseGuid>86377fe2-8585-4ac8-881f-02645fa818a8</testCaseGuid>
+</TestCaseEntity>

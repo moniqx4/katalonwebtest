@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyOnCorrectPage</name>
+   <tag>teststep,validation</tag>
+   <comment></comment>
+   <testCaseGuid>223746d9-e9af-416f-bf14-24ad85c0d5de</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29ef62cb-098f-49de-bf3a-44b8b620d85a</id>
+      <masked>false</masked>
+      <name>ExpectedUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d74e28eb-9bcd-46bc-a4a2-13d1ab1b0e99</id>
+      <masked>false</masked>
+      <name>ElementToCheck</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca6d015b-e352-4248-badc-ebaea7192622</id>
+      <masked>false</masked>
+      <name>ExpectedPageText</name>
+   </variable>
+</TestCaseEntity>

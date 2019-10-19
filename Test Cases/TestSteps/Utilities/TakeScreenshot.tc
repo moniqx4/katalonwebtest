@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TakeScreenshot</name>
+   <tag>teststep</tag>
+   <comment></comment>
+   <testCaseGuid>eadc4580-7bb5-43c0-8e51-92472c56463d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>236b1322-e22f-4fc4-b85c-80bc3a0b9a98</id>
+      <masked>false</masked>
+      <name>ScreenShotPath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8a2381d4-8411-451e-acfb-130f90748de7</id>
+      <masked>false</masked>
+      <name>ScreenShotName</name>
+   </variable>
+</TestCaseEntity>
