@@ -1,1 +1,2 @@
-This is a Base Template setup for Web Automation for a project created in Katalon.
+# Initial page
+
