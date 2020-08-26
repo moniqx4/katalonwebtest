@@ -23,6 +23,7 @@
   * [Profiles](palocity-specfic/project-structure/profiles.md)
 * [Paylocity Packages \(Keywords\)](palocity-specfic/paylocity-packages-keywords.md)
 * [Other Packages, Non-Paylocity specific](palocity-specfic/other-packages-non-paylocity-specific.md)
+* [Mobile Setup](palocity-specfic/mobile-setup.md)
 
 ## Katalon How-Tos
 
@@ -37,5 +38,4 @@
 * [Known Issues](known-issues.md)
 * [FAQ](faq.md)
 * [Help](help.md)
-* [Mobile Setup](mobile-setup.md)
 
