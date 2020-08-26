@@ -37,4 +37,5 @@
 * [Known Issues](known-issues.md)
 * [FAQ](faq.md)
 * [Help](help.md)
+* [Mobile Setup](mobile-setup.md)
 
