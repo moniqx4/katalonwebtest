@@ -36,4 +36,5 @@
 * [Tips and Tricks](tips-and-tricks.md)
 * [Known Issues](known-issues.md)
 * [FAQ](faq.md)
+* [Help](help.md)
 
