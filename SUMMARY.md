@@ -19,7 +19,6 @@
 
 ## Palocity Specific <a id="palocity-specfic"></a>
 
-* [Cloning the Repository in BitBucket](palocity-specfic/cloning-the-repository-in-bitbucket.md)
 * [Project Structure](palocity-specfic/project-structure/README.md)
   * [Profiles](palocity-specfic/project-structure/profiles.md)
 * [Paylocity Packages \(Keywords\)](palocity-specfic/paylocity-packages-keywords.md)
