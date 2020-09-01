@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [Projects](projects.md)
 * [Definitions](definitions.md)
 * [Basic Guidelines](basic-guidelines.md)
 
